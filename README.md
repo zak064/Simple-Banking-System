@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/badge/Clean_Code-2E7D32?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </p>
 
+<a href="https://zakariyafayadpro.netlify.app/project-videos#project-3">
+  <img src="https://img.shields.io/badge/See_Project_Video-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+
 </div>
 
 ---
@@ -22,7 +26,7 @@
 
 The project allows managing bank clients, storing client data in files, handling account balances, and performing basic banking operations through a clear console interface.
 
-The project was built to practice **C++ fundamentals**, **file handling**, **modular programming**, and **clean code structure**.
+The project was built to practice **C++ fundamentals**, **file handling**, **modular programming**, **OOP**, and **clean code structure**.
 
 ---
 
@@ -119,4 +123,4 @@ The project was built to practice **C++ fundamentals**, **file handling**, **mod
 [7] Manage Users
 [8] Logout
 
-Choose what you want to do: 
+Choose what you want to do:
